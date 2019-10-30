@@ -1,0 +1,238 @@
+body {
+    font-family: 'Ropa Sans', sans-serif;
+        padding-top: 100px; 
+        position: relative;
+}
+ul.nav-pills {
+    top: 120px;
+    position: fixed;
+}
+div.col-8 div {
+    height: 500px;
+}
+
+.navbar-custom {
+    background-color: #a1a1a4;
+    margin-top: 10px;
+}
+.carousel-inner img {
+    height: 70%;
+    width: 100%;
+}
+.section1 {
+    background-color: #7ecdc3;    
+}
+.section2 {
+    background-color: #1e4164;    
+}
+.section2headings {
+    color: #fff;
+}
+.missions {
+    background-color: #7ecdc3;
+    padding: 10px;
+    margin: 5px;
+}
+.missions2 {
+    background-color: #a1a1a4;
+    padding: 10px;
+    margin: 5px;
+}
+.section3headings {
+    color: #7ecdc3;
+}
+.section3button {
+background-color: #7ecdc3;
+}
+.section3badge {
+    background-color: #1e4164;
+    color: #fff;
+}
+.mytable {
+    background-color: #1e4164;
+    color: #fff;
+}
+
+.zui-table {
+    border: solid 1px #DDEEEE;
+    border-collapse: collapse;
+    border-spacing: 0;
+    font: normal 13px Arial, sans-serif;
+}
+.zui-table thead th {
+    background-color: #DDEFEF;
+    border: solid 1px #DDEEEE;
+    color: #336B6B;
+    padding: 10px;
+    text-align: left;
+    text-shadow: 1px 1px 1px #fff;
+}
+.zui-table tbody td {
+    border: solid 1px #DDEEEE;
+    color: #fff;
+    padding: 10px;
+}
+.zui-table-rounded {
+    border: none;
+}
+.zui-table-rounded thead th {
+    background-color: #a1a1a4;
+    border: none;
+    text-shadow: 1px 1px 1px #ccc;
+    color: #333;
+}
+.zui-table-rounded thead th:first-child {
+    border-radius: 10px 0 0 0;
+}
+.zui-table-rounded thead th:last-child {
+    border-radius: 0 10px 0 0;
+}
+.zui-table-rounded tbody td {
+    border: none;
+    border-top: solid 1px #7ecdc3;
+    background-color: #333;
+}
+.zui-table-rounded tbody tr:last-child td:first-child {
+    border-radius: 0 0 0 10px;
+}
+.zui-table-rounded tbody tr:last-child td:last-child {
+    border-radius: 0 0 10px 0;
+}
+/* .Beckham_container{
+    display: flex;
+} */
+.groupbtn {
+background-color: #a1a1a4;
+color: #fff;
+margin-bottom: 3px;
+}
+.accLink {
+    color: #333;
+}
+.cardDetails {
+    columns: #fab;
+}
+.davidDetails {
+    margin: 10px;
+}
+.section41heading {
+    margin-bottom: 20px;
+}
+.myLink {
+    color: red;
+}
+.section42 {
+    background-color: #333;
+    color: #a1a1a4;
+}
+.bar1{
+    background-color: #7ecdc3;
+    color: #333;
+}
+.bar2{
+    background-color: #a1a1a4;
+    color: #fff;
+}
+.bar3{
+    background-color: #7ecdc3;
+    color: #333;
+}
+.bar4{
+    background-color: #1e4164;
+}
+.bar5{
+    background-color: #fff;
+    color: #333;
+}
+.myHeader42 {
+    text-align: center;
+}
+
+#myFooter{
+    color: #000;
+    
+}
+i {
+    height: 30px;
+    margin-left: 35px;
+}
+.myButtons {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+.close {
+    background-color: #a1a1a4;
+}
+.contact {
+    color: #7ecdc3;
+}
+.footerCards {
+    background: #1e4164;
+    color: #fff;
+}
+.buttonContainer {
+    background: #2d4958;  
+padding: 20px;    
+}
+footer{
+    color: #000;
+    margin-top: 20px;
+  }
+  footer a{
+    color: #bfffff;
+  }
+  footer a:hover{
+    color: white;
+  }
+  
+  .footer-bottom{
+    background: #a1a1a4;
+    padding: 15px;
+  }
+  .footer-top{
+    background: #2d4958;  
+    height: 100px;
+  }
+  .footer-middle{
+     background: #3d6277;
+    padding-top: 2em;
+    color: white;
+  }
+  /**Sub Navigation**/
+  .subnavigation-container{
+    background: #3d6277;
+  }
+  .subnavigation .nav-link{
+    color: white;
+    font-weight: bold;
+  }
+  .subnavigation-container{
+    text-align: center;
+  }
+  .subnavigation-container .navbar{
+    display: inline-block;
+    margin-bottom: -6px; 
+  }
+  .col-subnav a{
+    padding: 1rem 1rem;
+    color: white;
+    font-weight: bold;
+  }
+  .col-subnav .active{
+    border-top:5px solid orange;
+   background: white;
+    color: black;
+  }
+  .links {
+    padding: 1rem 1rem;
+    color: #7ecdc3;
+    font-weight: bold;
+  }
+  .links:hover {
+    color: #333;
+    text-decoration: none;
+  }
+  .carouselDiv {
+      height: 800px;
+      width: 100px;
+  }
